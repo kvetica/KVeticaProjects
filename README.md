@@ -3,10 +3,11 @@
 ## Identifying Information
 * Name: Kaitlyn Vetica
 * Email: kaitlynvgolf@gmail.com
-* Programming Languages: C++, Java, Python
+* Known Programming Languages: C++, C, Java, Python
 
 ## Featured Projects
 * GameOfLife
 * TutTranslator
 * Database
+* Scheduling
 
