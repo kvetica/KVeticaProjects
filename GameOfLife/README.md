@@ -27,6 +27,11 @@ Output can be generated to console or can be output to a file (example given in 
 ## Known Errors
 
 * Produces error when percentage is entered as a decimal. When prompted for percentage filled, enter as whole number (i.e. 35, 25, 50).
+* Cannot open files when .txt is not included in user input.
+
+## Example Input and Output 
+
+* Given in files in.txt and exampleoutput.txt
 
 ## Build Insructions
 
@@ -36,5 +41,6 @@ Output can be generated to console or can be output to a file (example given in 
 
 * <code> ./out.o </code>
 * Enter user input accordingly when prompted. Percentage filled should be entered as a whole number integer not a decimal number. 
+* If inputing or outputing using file, when prompted for the file name, include the .txt on the file name.
 * User must Ctrl+C to exit program if generation creation is infinite and looping. Otherwise, program terminates by itself when generations can no longer continue (World Empty or Stability Achieved).
 
