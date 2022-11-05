@@ -1,0 +1,5 @@
+Hello!
+This is the Translator.
+Nice to meet you!
+Thank you for reading.
+Goodbye!
