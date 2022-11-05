@@ -14,6 +14,7 @@ Translation rules that the program accounts for:
 * Name: Kaitlyn Vetica
 * Email: kaitlynvgolf@gmail.com
 * Course: CPSC 350 - Data Structures
+* Date: Spring 2021
 * Assignment: Tut Translator
 
 ## Source Files
