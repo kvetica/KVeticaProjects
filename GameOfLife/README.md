@@ -22,9 +22,7 @@ Output can be generated to console or can be output to a file (example given in 
 ## References
 
 * cplusplus.com for multidimensional array and other function implementation
-* www.softwaretestinghelp.com/cpp-sleep/ for sleep() function implementation, replacement for recommended
-*           system("pause") function - pause function was not working on my terminal
-*           Also used for solving Undefined Reference errors
+* www.softwaretestinghelp.com/cpp-sleep/ for sleep() function implementation, replacement for recommended system("pause") function - pause function was not working on my terminal. Also used for solving Undefined Reference errors.
 
 ## Known Errors
 
@@ -36,7 +34,7 @@ Output can be generated to console or can be output to a file (example given in 
 
 ## Execution Instructions
 
-* <code> ./out.o
+* <code> ./out.o </code>
 * Enter user input accordingly when prompted. Percentage filled should be entered as a whole number integer not a decimal number. 
 * User must Ctrl+C to exit program if generation creation is infinite and looping. Otherwise, program terminates by itself when generations can no longer continue (World Empty or Stability Achieved).
 
