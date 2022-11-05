@@ -1,0 +1,51 @@
+Gen 0
+XX-X
+--XX
+X-X-
+-X--
+Gen 1
+-X-X
+X--X
+--XX
+-X--
+Gen 2
+--X-
+-X-X
+-XXX
+--X-
+Gen 3
+--X-
+-X-X
+-X-X
+-XXX
+Gen 4
+--X-
+-X-X
+XX-X
+-X-X
+Gen 5
+--X-
+XX-X
+XX-X
+XX--
+Gen 6
+-XX-
+X--X
+----
+XXX-
+Gen 7
+-XX-
+-XX-
+X-X-
+-X--
+Gen 8
+-XX-
+X--X
+X-X-
+-X--
+Gen 9
+-XX-
+X--X
+X-X-
+-X--
+Stability Achieved
