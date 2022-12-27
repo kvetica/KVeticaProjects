@@ -6,8 +6,8 @@
 * Programming Languages: C++, C, Java, Python
 
 ## Featured Projects
-* GameOfLife
-* TutTranslator
+* Game of Life
+* Tut Translator
 * Database
-* Scheduling
+* CPU Scheduling
 
