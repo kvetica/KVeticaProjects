@@ -8,7 +8,7 @@ Output can be generated to console or can be output to a file (example given in 
 ## Identifying Information
 
 * Name: Kaitlyn Vetica
-* Email: kaitlynvgolf@gmail.com
+* Email: kaitlynvetica@gmail.com
 * Course: CPSC 350 - Data Structures
 * Date: Spring 2021
 * Assignment: Game of Life
