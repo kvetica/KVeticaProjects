@@ -8,7 +8,7 @@ Program saves the last instance of the Trees/Menu (student and faculty) when pro
 ## Identifying Information
 
 * Name: Kaitlyn Vetica
-* Email: kaitlynvgolf@gmail.com
+* Email: kaitlynvetica@gmail.com
 * Course: CPSC 350 - Data Structures
 * Date: Spring 2021
 * Assignment: Database
