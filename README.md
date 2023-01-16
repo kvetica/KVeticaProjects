@@ -2,7 +2,7 @@
 
 ## Identifying Information
 * Name: Kaitlyn Vetica
-* Email: kaitlynvgolf@gmail.com
+* Email: kaitlynvetica@gmail.com
 * Programming Languages: C++, C, Java, Python
 
 ## Featured Projects
