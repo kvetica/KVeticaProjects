@@ -3,7 +3,7 @@
 ## Identifying Information
 * Name: Kaitlyn Vetica
 * Email: kaitlynvetica@gmail.com
-* Programming Languages: C++, C, Java, Python, HTML, CSS
+* Known Programming Languages: C++, C, Java, Python, HTML, CSS
 
 ## Featured Projects
 * Game of Life
