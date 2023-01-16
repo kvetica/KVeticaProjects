@@ -12,7 +12,7 @@ The Scheduling Algorithms:
 ## Identifying Information
 
 * Name: Kaitlyn Vetica
-* Email: kaitlynvgolf@gmail.com
+* Email: kaitlynvetica@gmail.com
 * Course: CPSC 380 - Operating Systems
 * Date: Fall 2022
 * Assignment: CPU Scheduling
